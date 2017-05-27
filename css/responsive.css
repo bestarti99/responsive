@@ -1,0 +1,15 @@
+/* !!! ZACZYNAMY OD WIĘKSZYCH WARTOŚCI EKRANU */
+@media (max-width: 1200px) {
+    #container {
+    height: 200px;
+    width: 200px;
+    }    
+  }
+
+@media (max-width: 800px) {
+    #container {
+    height: 150px;
+    width: 150px;
+    }    
+  }
+
